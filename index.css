@@ -1,0 +1,39 @@
+h1{
+    font-size:55px;
+    color:#806000;
+text-decoration: underline;
+text-decoration-color: black;
+text-align: center;
+font-style: normal;
+}
+h2{
+    font-size:45px;
+    color:#806000;
+text-decoration: underline;
+text-decoration-color: black;
+text-align:center;
+font-style: normal;
+}
+body{
+    border:7px solid #806000;
+    height:2000px;
+}
+p{
+    font-size:27px;
+    font-style: oblique;
+    color:brown;
+}
+img{
+    width:350px;
+    height:200px;
+    border-radius:40px;
+}
+video{
+    
+    border-radius: 40px;
+}
+.imgp{
+height:350px;
+width:600px;
+border-radius: 40px;
+}
